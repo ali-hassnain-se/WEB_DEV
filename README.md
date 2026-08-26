@@ -15,28 +15,29 @@ Repository containing structured coursework, laboratory assignments, practical e
 
 ## 📁 Repository Structure
 
-\`\`\`bash
+```bash
 ├── 01-HTML-CSS-Basics/      # Semantic HTML, Flexbox, Grid, Responsive UI
 ├── 02-JavaScript-Core/      # DOM Manipulation, ES6+, Async/Await, APIs
 ├── 03-Backend-Development/  # Server setups, REST APIs, Routing
 ├── 04-Database-Integration/ # Schemas, CRUD operations, queries
 └── Projects/                # End-to-end full-stack web applications
-\`\`\`
+```
 
 ---
 
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
-   \`\`\`bash
-   git clone https://github.com/ali-hassnain-se/web-engineering-lab.git
-   \`\`\`
+   ```bash
+   git clone [https://github.com/ali-hassnain-se/WEB_DEV.git](https://github.com/ali-hassnain-se/WEB_DEV.git)
+   ```
+
 2. **Navigate to the target directory:**
-   \`\`\`bash
-   cd web-engineering-lab
-   \`\`\`
+   ```bash
+   cd WEB_DEV
+   ```
 
 ---
 
 ## 📌 Author
-- **Ali Hassnain** - Software Engineering Undergraduate
+- **Rana Ali Hassnain** - Software Engineering Undergraduate
